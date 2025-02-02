@@ -1,0 +1,21 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/kiranraj/franka_ros2_ws/install/franka_gripper/local/lib/python3.10/dist-packages",
+        "/home/kiranraj/franka_ros2_ws/install/franka_msgs/local/lib/python3.10/dist-packages",
+        "/home/kiranraj/franka_ros2_ws/install/franka_force_estimation/lib/python3.10/site-packages",
+        "/home/kiranraj/franka_ros2_ws/install/fr3_gazebo_test_1/lib/python3.10/site-packages",
+        "/home/kiranraj/franka_ros2_ws/src/franka_ros2/build/franka_force_estimation",
+        "/home/kiranraj/franka_ros2_ws/src/franka_ros2/install/franka_force_estimation/lib/python3.10/site-packages",
+        "/home/kiranraj/ws_moveit2/install/moveit_task_constructor_core/local/lib/python3.10/dist-packages",
+        "/home/kiranraj/ws_moveit2/install/moveit_configs_utils/lib/python3.10/site-packages",
+        "/home/kiranraj/ws_moveit2/install/srdfdom/local/lib/python3.10/dist-packages",
+        "/home/kiranraj/ws_moveit2/install/moveit_task_constructor_msgs/local/lib/python3.10/dist-packages",
+        "/home/kiranraj/ws_moveit2/install/launch_param_builder/lib/python3.10/site-packages",
+        "/home/kiranraj/ros2_ws/install/my_robot_launch/lib/python3.10/site-packages",
+        "/home/kiranraj/ros2_ws/install/my_robot_interfaces/local/lib/python3.10/dist-packages",
+        "/home/kiranraj/ros2_ws/build/my_py_pkg",
+        "/home/kiranraj/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

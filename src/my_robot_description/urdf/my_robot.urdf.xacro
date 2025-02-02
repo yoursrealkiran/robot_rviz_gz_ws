@@ -5,3 +5,5 @@
     <xacro:include filename="mobile_base.xacro" />
 
 </robot>
+
+<!-- URDF for a wheeled robot -->
